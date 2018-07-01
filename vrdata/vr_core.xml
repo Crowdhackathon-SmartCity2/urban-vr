@@ -3,10 +3,10 @@
   <!-- Global variables used by actions and plugins -->
   <krpano 
         tour_soundson="true" 
-        tour_soundsvolume="100" 
+        tour_soundsvolume="86" 
         tour_autotourenabled="false"
         tour_autorotateenabled="false"
-        tour_controlmodemousetype="moveto"
+        tour_controlmodemousetype="drag"
         tour_controlmodetouchtype="drag"
         tour_fullscreen="false"
         tour_displaymap="false"
@@ -30,7 +30,7 @@
   </action>
 
   <!-- Control Mode Management -->
-  <control mouse="moveto" touch="drag" />
+  <control mouse="drag" touch="drag" />
   <action name="setControlModeDragTo">setControlMode(drag);</action>
   <action name="setControlModeMoveTo">setControlMode(moveto);</action>
   <action name="setControlMode">
@@ -88,6 +88,10 @@
 
 
 
+  <events name="startTourForJsEvents" onTourStart="startTourForJsEventsAction();" keep="true" />
+  <action name="startTourForJsEventsAction">
+    js(eventTourStarted());
+  </action>
 
 
 
@@ -365,6 +369,11 @@ stopautorotation();
   </action>
   <action name="autotouronuseraction">
     if(tour_autotourenabled, if(%1, resetautotourvariables();, stopautotourtimer();););
+  </action>
+  <events name="autotourstartevents" onTourStart="autotouratstart();" keep="true" />
+  <action name="autotouratstart">
+    if(norotation === null, if(noautotour === null, startautotour();););
+    set(events[autotourstartevents].keep, false);
   </action>
 
 

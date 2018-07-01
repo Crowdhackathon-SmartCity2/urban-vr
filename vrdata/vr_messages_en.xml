@@ -5,58 +5,106 @@
 <!--         Messages         -->
 <!-- ************************ -->
 
-  <data name="en_project_title"><![CDATA[CrowHackathon]]></data>
+  <data name="en_project_title"><![CDATA[CrowHackathon VR]]></data>
 
-
-  <data name="en_panogroup4049_title"><![CDATA[5A CrowdHackathon]]></data>
-
-  <data name="en_pano4036_title"><![CDATA[Crowhackathon-6]]></data>
-  <data name="en_pano4042_title"><![CDATA[Open Area]]></data>
-  <data name="en_pano4037_title"><![CDATA[Crowhackathon-7]]></data>
-  <data name="en_pano4035_title"><![CDATA[Center]]></data>
-  <data name="en_pano4045_title"><![CDATA[Right Corner]]></data>
-
-  <data name="en_panogroup4051_title"><![CDATA[Elevetor Reception]]></data>
-
-  <data name="en_pano4038_title"><![CDATA[Elevetor to 1 or 5A]]></data>
-  <data name="en_pano4044_title"><![CDATA[Reception Main]]></data>
 
   <data name="en_panogroup4054_title"><![CDATA[SNFCC]]></data>
 
   <data name="en_pano4041_title"><![CDATA[NationalOpera]]></data>
   <data name="en_spotpoint4096_tooltip"><![CDATA[Go to Reception]]></data>
+  <data name="en_spotpoint4097_tooltip"><![CDATA[SNFCC Main Area]]></data>
   <data name="en_pano4046_title"><![CDATA[SNFCC]]></data>
   <data name="en_spotpoint4095_tooltip"><![CDATA[National Opera]]></data>
+  <data name="en_spotpoint4124_tooltip"><![CDATA[8 Faros]]></data>
+  <data name="en_pano4120_title"><![CDATA[Faros]]></data>
+  <data name="en_spotpoint4125_tooltip"><![CDATA[SNFCC MAIN]]></data>
+  <data name="en_spotpoint4126_tooltip"><![CDATA[5A Crowd Hackathon]]></data>
+  <data name="en_spotpoint4127_tooltip"><![CDATA[Reception]]></data>
+
+  <data name="en_panogroup4051_title"><![CDATA[Elevetor Reception]]></data>
+
+  <data name="en_pano4038_title"><![CDATA[Elevetor to 1 or 5A]]></data>
+  <data name="en_spotpoint4102_tooltip"><![CDATA[Reception National Opera]]></data>
+  <data name="en_spotpoint4103_tooltip"><![CDATA[1rst Floor]]></data>
+  <data name="en_spotpoint4104_tooltip"><![CDATA[5A]]></data>
+  <data name="en_pano4044_title"><![CDATA[Reception Main]]></data>
+  <data name="en_spotpoint4099_tooltip"><![CDATA[Go to SNFCC]]></data>
+  <data name="en_spotpoint4100_tooltip"><![CDATA[Go to Elevetor]]></data>
+  <data name="en_spotpoint4101_tooltip"><![CDATA[Go to 1rst floor]]></data>
 
   <data name="en_panogroup4052_title"><![CDATA[First Floor]]></data>
 
   <data name="en_pano4039_title"><![CDATA[First Floor]]></data>
+  <data name="en_spotpoint4105_tooltip"><![CDATA[Go to 1rst floor]]></data>
+  <data name="en_spotpoint4107_tooltip"><![CDATA[Go to Mentors Meeting Room]]></data>
+  <data name="en_spotpoint4129_tooltip"><![CDATA[5A CrowdHackathon]]></data>
   <data name="en_pano4040_title"><![CDATA[Meeting Room]]></data>
+  <data name="en_spotpoint4109_tooltip"><![CDATA[1rst Floor]]></data>
   <data name="en_pano4034_title"><![CDATA[1A]]></data>
+  <data name="en_spotpoint4108_tooltip"><![CDATA[Mentors Meeting Room]]></data>
+  <data name="en_spotpoint4110_tooltip"><![CDATA[First Floor]]></data>
+
+  <data name="en_panogroup4049_title"><![CDATA[5A CrowdHackathon]]></data>
+
+  <data name="en_pano4036_title"><![CDATA[A Corner]]></data>
+  <data name="en_spotpoint4116_tooltip"><![CDATA[Catering]]></data>
+  <data name="en_spotpoint4117_tooltip"><![CDATA[5A Center]]></data>
+  <data name="en_spotpoint4136_tooltip"><![CDATA[5A Entrance]]></data>
+  <data name="en_pano4037_title"><![CDATA[Catering]]></data>
+  <data name="en_spotpoint4115_tooltip"><![CDATA[5A Center]]></data>
+  <data name="en_spotpoint4132_tooltip"><![CDATA[Exit Cornet]]></data>
+  <data name="en_spotpoint4133_tooltip"><![CDATA[5A Entrance]]></data>
+  <data name="en_pano4035_title"><![CDATA[Center]]></data>
+  <data name="en_spotpoint4113_tooltip"><![CDATA[Exit Cornet]]></data>
+  <data name="en_spotpoint4114_tooltip"><![CDATA[Catering]]></data>
+  <data name="en_spotpoint4134_tooltip"><![CDATA[5A Entrance]]></data>
+  <data name="en_pano4045_title"><![CDATA[Exit Corner]]></data>
+  <data name="en_spotpoint4112_tooltip"><![CDATA[Open Area]]></data>
+  <data name="en_spotpoint4137_tooltip"><![CDATA[5A Center]]></data>
+  <data name="en_pano4042_title"><![CDATA[Open Area]]></data>
+  <data name="en_spotpoint4111_tooltip"><![CDATA[5A Crowd Hackathon]]></data>
+  <data name="en_spotpoint4138_tooltip"><![CDATA[Go Downstairs to SNFCC]]></data>
+  <data name="en_pano4122_title"><![CDATA[5A Entrance]]></data>
+  <data name="en_spotpoint4130_tooltip"><![CDATA[Catering]]></data>
+  <data name="en_spotpoint4131_tooltip"><![CDATA[Right]]></data>
+  <data name="en_spotpoint4135_tooltip"><![CDATA[5A Center]]></data>
 
 
 
 
+	<data name="en_project_floor_title"><![CDATA[CrowHackathon VR]]></data>
+	<data name="en_spotmap4139_tooltip"><![CDATA[5A Elevetor]]></data>
+	<data name="en_spotmap4140_tooltip"><![CDATA[First Floor]]></data>
+	<data name="en_spotmap4141_tooltip"><![CDATA[Reception]]></data>
+	<data name="en_spotmap4142_tooltip"><![CDATA[SNFCC]]></data>
+	<data name="en_spotmap4143_tooltip"><![CDATA[5A Entrance]]></data>
+	<data name="en_spotmap4144_tooltip"><![CDATA[Catering]]></data>
+	<data name="en_spotmap4145_tooltip"><![CDATA[A Corner]]></data>
+	<data name="en_spotmap4146_tooltip"><![CDATA[5A Center]]></data>
+	<data name="en_spotmap4147_tooltip"><![CDATA[Exit Corner]]></data>
+	<data name="en_spotmap4148_tooltip"><![CDATA[Open Area]]></data>
 
 
-  <data name="en_controlBar_dockedThumbnailsprevSceneTip"><![CDATA[Previous panorama]]></data>
-  <data name="en_controlBar_dockedThumbnailsnextSceneTip"><![CDATA[Next panorama]]></data>
-  <data name="en_controlBar_dockedThumbnailszoomInTip"><![CDATA[Zoom in]]></data>
-  <data name="en_controlBar_dockedThumbnailszoomOutTip"><![CDATA[Zoom out]]></data>
-  <data name="en_controlBar_dockedThumbnailsmoveLeftTip"><![CDATA[Move left]]></data>
-  <data name="en_controlBar_dockedThumbnailsmoveRightTip"><![CDATA[Move right]]></data>
-  <data name="en_controlBar_dockedThumbnailsmoveUpTip"><![CDATA[Move up]]></data>
-  <data name="en_controlBar_dockedThumbnailsmoveDownTip"><![CDATA[Move down]]></data>
-  <data name="en_controlBar_dockedThumbnailsopenFsTip"><![CDATA[Enter fullscreen]]></data>
-  <data name="en_controlBar_dockedThumbnailscloseFsTip"><![CDATA[Exit fullscreen]]></data>
-  <data name="en_controlBar_dockedThumbnailsautorotateOnTip"><![CDATA[Start autorotation]]></data>
-  <data name="en_controlBar_dockedThumbnailsautorotateOffTip"><![CDATA[Stop autorotation]]></data>
-  <data name="en_controlBar_dockedThumbnailsdisplayHelpTip"><![CDATA[Show help screen]]></data>
-  <data name="en_controlBar_dockedThumbnailshideHelpTip"><![CDATA[Hide help screen]]></data>
-  <data name="en_controlBar_dockedThumbnailsdisplayControlsTip"><![CDATA[Show controls]]></data>
-  <data name="en_controlBar_dockedThumbnailshideControlsTip"><![CDATA[Hide controls]]></data>
-  <data name="en_controlBar_dockedThumbnailsctrlmodeDragTip"><![CDATA[Change control mode]]></data>
-  <data name="en_controlBar_dockedThumbnailsctrlmodeMoveTip"><![CDATA[Change control mode]]></data>
+  <data name="en_buttontooltip"><![CDATA[]]></data>
+  <data name="en_buttonForASinglePanotooltip"><![CDATA[]]></data>
+  <data name="en_buttonForASinglePanopanoid1020"><![CDATA[]]></data>
+  <data name="en_webvrbuttontooltip"><![CDATA[VR ]]></data>
+  <data name="en_socialButtonsocial_href"><![CDATA[]]></data>
+  <data name="en_socialButtonfb_appid"><![CDATA[]]></data>
+  <data name="en_socialButtonfb_ref"><![CDATA[]]></data>
+  <data name="en_logowebsiteurl"><![CDATA[http://crowdhackathon.com/smartcity2/]]></data>
+  <data name="en_logotooltipText"><![CDATA[Crowd Hackathon ]]></data>
+  <data name="en_panotourmapskey"><![CDATA[AIzaSyBn1KRbiLTdrB3f-EQ1PFF6q0WgVH4MQtY]]></data>
+  <data name="en_panotourmapsmap_title"><![CDATA[Map]]></data>
+  <data name="en_YachtControlBar1displayFloorplanTip"><![CDATA[Show floorplan]]></data>
+  <data name="en_YachtControlBar1hideFloorplanTip"><![CDATA[Hide floorplan]]></data>
+  <data name="en_prevnexttheme8prevSceneTip"><![CDATA[Previous Scene]]></data>
+  <data name="en_prevnexttheme8nextSceneTip"><![CDATA[Next Scene]]></data>
+  <data name="en_floorPlandisplay_close_text"><![CDATA[Close]]></data>
+  <data name="en_YachtControlBar2openFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="en_YachtControlBar2closeFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="en_YachtControlBar3displayMapTip"><![CDATA[Show map]]></data>
+  <data name="en_YachtControlBar3hideMapTip"><![CDATA[Hide map]]></data>
 
 
   <data name="en_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
@@ -89,6 +137,9 @@
   <data name="en_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
   <data name="en_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
   <data name="en_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+  <data name="en_project_description"><![CDATA[<span style="color: rgb(109, 122, 131); font-family: Roboto, sans-serif; font-size: 18px; text-align: justify; widows: auto; background-color: rgb(251, 251, 251);">Σε συνέχεια του επιτυχημένου&nbsp;</span><span style="box-sizing: border-box; word-wrap: break-word; font-family: Roboto, sans-serif; font-weight: 700; color: rgb(109, 122, 131); font-size: 18px; text-align: justify; widows: auto;">City Challenge Crowdhackathon #smartcity</span><span style="color: rgb(109, 122, 131); font-family: Roboto, sans-serif; font-size: 18px; text-align: justify; widows: auto; background-color: rgb(251, 251, 251);">&nbsp;η&nbsp;</span><span style="box-sizing: border-box; word-wrap: break-word; font-family: Roboto, sans-serif; font-weight: 700; color: rgb(109, 122, 131); font-size: 18px; text-align: justify; widows: auto;">Κεντρική Ένωση Δήμων Ελλάδας</span><span style="color: rgb(109, 122, 131); font-family: Roboto, sans-serif; font-size: 18px; text-align: justify; widows: auto; background-color: rgb(251, 251, 251);">&nbsp;διοργανώνει το&nbsp;</span><span style="box-sizing: border-box; word-wrap: break-word; font-family: Roboto, sans-serif; font-weight: 700; color: rgb(109, 122, 131); font-size: 18px; text-align: justify; widows: auto;">2ο Μαραθώνιο Καινοτομίας City Challenge Crowdhackathon #smartcity 2.</span><span style="color: rgb(109, 122, 131); font-family: Roboto, sans-serif; font-size: 18px; text-align: justify; widows: auto; background-color: rgb(251, 251, 251);">&nbsp;Το&nbsp;</span><span style="box-sizing: border-box; word-wrap: break-word; font-family: Roboto, sans-serif; font-weight: 700; color: rgb(109, 122, 131); font-size: 18px; text-align: justify; widows: auto;">City Challenge crowdhackathon #smartcity2</span><span style="color: rgb(109, 122, 131); font-family: Roboto, sans-serif; font-size: 18px; text-align: justify; widows: auto; background-color: rgb(251, 251, 251);">&nbsp;θα πραγματοποιηθεί από τις&nbsp;</span><span style="box-sizing: border-box; word-wrap: break-word; font-family: Roboto, sans-serif; font-weight: 700; color: rgb(109, 122, 131); font-size: 18px; text-align: justify; widows: auto;">28 Ιουνίου</span><span style="color: rgb(109, 122, 131); font-family: Roboto, sans-serif; font-size: 18px; text-align: justify; widows: auto; background-color: rgb(251, 251, 251);">&nbsp;έως τη&nbsp;</span><span style="box-sizing: border-box; word-wrap: break-word; font-family: Roboto, sans-serif; font-weight: 700; color: rgb(109, 122, 131); font-size: 18px; text-align: justify; widows: auto;">1η Ιουλίου</span><span style="color: rgb(109, 122, 131); font-family: Roboto, sans-serif; font-size: 18px; text-align: justify; widows: auto; background-color: rgb(251, 251, 251);">&nbsp;στο&nbsp;</span><span style="box-sizing: border-box; word-wrap: break-word; font-family: Roboto, sans-serif; font-weight: 700; color: rgb(109, 122, 131); font-size: 18px; text-align: justify; widows: auto;">Κέντρο Πολιτισμού Ίδρυμα Σταύρος Νιάρχος.</span><span style="color: rgb(109, 122, 131); font-family: Roboto, sans-serif; font-size: 18px; text-align: justify; widows: auto; background-color: rgb(251, 251, 251);">&nbsp;Στο Μαραθώνιο θα αναπτυχθούν πιλοτικές υπηρεσίες και εφαρμογές που λύνουν προβλήματα της&nbsp;</span><span style="box-sizing: border-box; word-wrap: break-word; font-family: Roboto, sans-serif; font-weight: 700; color: rgb(109, 122, 131); font-size: 18px; text-align: justify; widows: auto;">Τοπικής Αυτοδιοίκησης</span><span style="color: rgb(109, 122, 131); font-family: Roboto, sans-serif; font-size: 18px; text-align: justify; widows: auto; background-color: rgb(251, 251, 251);">&nbsp;και υποστηρίζουν την τοπική και εθνική&nbsp;</span><span style="box-sizing: border-box; word-wrap: break-word; font-family: Roboto, sans-serif; font-weight: 700; color: rgb(109, 122, 131); font-size: 18px; text-align: justify; widows: auto;">ανάπτυξη</span><span style="color: rgb(109, 122, 131); font-family: Roboto, sans-serif; font-size: 18px; text-align: justify; widows: auto; background-color: rgb(251, 251, 251);">&nbsp;μέσω των νέων&nbsp;</span><span style="box-sizing: border-box; word-wrap: break-word; font-family: Roboto, sans-serif; font-weight: 700; color: rgb(109, 122, 131); font-size: 18px; text-align: justify; widows: auto;">τεχνολογιών</span><span style="color: rgb(109, 122, 131); font-family: Roboto, sans-serif; font-size: 18px; text-align: justify; widows: auto; background-color: rgb(251, 251, 251);">. Στο πλαίσιο του Μαραθωνίου θα διοργανωθούν ειδικές δράσεις όπως ο&nbsp;</span><span style="box-sizing: border-box; word-wrap: break-word; font-family: Roboto, sans-serif; font-weight: 700; color: rgb(109, 122, 131); font-size: 18px; text-align: justify; widows: auto;">μαθητικός διαγωνισμός καινοτομίας</span><span style="color: rgb(109, 122, 131); font-family: Roboto, sans-serif; font-size: 18px; text-align: justify; widows: auto; background-color: rgb(251, 251, 251);">&nbsp;και τοπικά εργαστήρια&nbsp;</span><span style="box-sizing: border-box; word-wrap: break-word; font-family: Roboto, sans-serif; font-weight: 700; margin-bottom: 0px; color: rgb(109, 122, 131); font-size: 18px; text-align: justify; widows: auto;">citylabs</span><span style="color: rgb(109, 122, 131); font-family: Roboto, sans-serif; font-size: 18px; text-align: justify; widows: auto; background-color: rgb(251, 251, 251);">&nbsp;σε 16 πόλεις της Ελλάδας.</span>]]></data>
 
 
 
